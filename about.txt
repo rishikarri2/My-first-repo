@@ -1,0 +1,4 @@
+Name:K.P.Rishivardhini
+Course:B.sc-B
+In this session i have learned about DevOps and it's phases.
+And also i have learned about DevOps with github.
